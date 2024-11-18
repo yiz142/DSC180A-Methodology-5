@@ -1,8 +1,8 @@
 ---
-- Yi Zhang
-- Email: yiz142@ucsd.edu
-- Section: B05
-- Mentor: Jingbo Shang
+Yi Zhang
+Email: yiz142@ucsd.edu
+Section: B05
+Mentor: Jingbo Shang
 ---
 
 ** What is the most interesting topic covered in your domain this quarter?

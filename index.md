@@ -1,9 +1,7 @@
----
 Yi Zhang
 Email: yiz142@ucsd.edu
 Section: B05
 Mentor: Jingbo Shang
----
 
 ** What is the most interesting topic covered in your domain this quarter?
 The most interesting topic covered in my domain this quarter has been learning how to call APIs using various language models. It has been both fun and meaningful to practice proper techniques for interacting with APIs for large language models, enhancing our understanding of their functionality.
